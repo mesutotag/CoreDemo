@@ -1,1 +1,2 @@
 # CoreDemo
+Blog projesi
