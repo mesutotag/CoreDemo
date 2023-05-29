@@ -11,9 +11,9 @@ namespace DataAccessLayer.Abstract
     {
 
         List<Blog> ListAllBlog();
-        void AddCategory(Blog category);
-        void DeleteCategory(Blog category);
-        void UpdateCategory(Blog category);
+        void AddCategory(Blog blog);
+        void DeleteCategory(Blog blog);
+        void UpdateCategory(Blog blog);
 
         Blog GetByİd(int id);
 
